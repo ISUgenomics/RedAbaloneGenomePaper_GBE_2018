@@ -51,5 +51,5 @@ The File below can be used to visualize the phylogenetic tree generated in the p
 [tree input file](phylogeneticTree/Figure3.tree)
 
 ##### MultiQC data
-  * [FASTQC on raw data](http://htmlpreview.github.io/?https://github.com/ISUgenomics/RedAbaloneGenomePaper_GBE_2018/blob/master/multiqc_data_092818b/multiqc_report.html)
-  * [Picard InsertSize](mhttp://htmlpreview.github.io/?https://github.com/ISUgenomics/RedAbaloneGenomePaper_GBE_2018/blob/master/multiqc_data_092818b/multiqc_report.html)
+  * [FASTQC on raw data](https://isugenomics.github.io/RedAbaloneGenomePaper_GBE_2018/multiqc_data_092818b/multiqc_report.html#fastqc_per_base_n_content)
+  * [Picard InsertSize](https://isugenomics.github.io/RedAbaloneGenomePaper_GBE_2018/multiqc_data_092818b/multiqc_report.html#fastqc_per_base_n_content)
