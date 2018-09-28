@@ -49,3 +49,7 @@ Four rounds of maker were run as we added different types of data to improve the
 The File below can be used to visualize the phylogenetic tree generated in the paper using [FigTree v1.4.3](http://tree.bio.ed.ac.uk/software/figtree/)
 
 [tree input file](phylogeneticTree/Figure3.tree)
+
+##### MultiQC data
+  * [FASTQC on raw data](multiqc_data_092818b/multiqc_report.html)
+  * [Picard InsertSize](multiqc_data_092818b/multiqc_report.html)
