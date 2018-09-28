@@ -1,5 +1,7 @@
 # RedAbaloneGenomePaper_GBE_2018
 
+See the CA abalone genome resource website at [Abalone.dbgenome.org](abalone.dbgenome.org) to download large files (gff, genome, vcf), get the latest news in abalone aquaculture and explore the genome in the genome browser (Jbrowse).
+
 ## An Annotated Genome for Haliotis rufescens (Red Abalone) and Resequenced Green, Pink, Pinto, Black and White Abalone Species
 Rick Masonbrink1, Catherine Purcell2, Sara Boles3
 Andrew Whitehead3, John Hyde4, Arun Seetharam1, Andrew Severin1*
@@ -41,9 +43,9 @@ Four rounds of maker were run as we added different types of data to improve the
 * [Round1: ESTs and data from NCBI and Transcripts generated from red abalone RNA-Seq data](MAKER2/Round1_maker_opts.ctl)
 * [Round2: SNAP HMM round 1](MAKER2/Round2_maker_opts.ctl)
 * [Round3: SNAP HMM round 2](MAKER2/Round3_maker_opts.ctl)
-* [Round4: with genemark and busco and augustus training](MAKER2/Round4_maker_opts.ctl)
+* [Round4: with genemark and busco/augustus training](MAKER2/Round4 _maker_opts.ctl)
 
 ##### Phylogenetic tree
 The File below can be used to visualize the phylogenetic tree generated in the paper using [FigTree v1.4.3](http://tree.bio.ed.ac.uk/software/figtree/)
 
-* [tree input file](phylogeneticTree/Figure3.tree)
+[tree input file](phylogeneticTree/Figure3.tree)
